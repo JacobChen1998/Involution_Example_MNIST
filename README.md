@@ -16,6 +16,6 @@ Here we follow their concept and modify model of [keras MNIST example](https://k
 | Involution-based (Res2)    |  7,898 | 0.919  | 
 | Involution-based (with Maxpooling2D)    |  548 | 0.866  |
 
-![N](https://github.com/JacobChen1998/Involution_Example_MNIST/blob/main/Network.png)
+![N](https://github.com/JacobChen1998/Involution_Example_MNIST/blob/main/Network.png =100x200)
 
 Using the Involution layer to replace Convulution layer, the parameters number is only 63 times of same structure but CNN.
