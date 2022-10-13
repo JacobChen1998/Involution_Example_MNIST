@@ -12,3 +12,5 @@ Here we follow their concept and modify model of [keras MNIST example](https://k
 :---------------------:|:---------:|:--------:|
 | Convolution-based    |  34,826 | 0.992  | 
 | Involution-based    |  7,898 | 0.935  | 
+
+After using the Involution layer to replace Convulution layer, the parameters number decreases 
