@@ -14,7 +14,8 @@ Here we follow their concept and modify model of [keras MNIST example](https://k
 | Involution-based    |  7,898 | 0.935  | 
 | Involution-based (ResAdd-1)    |  7,898 | 0.939  | 
 | Involution-based (ResAdd-2)    |  7,898 | 0.919  | 
-| Involution-based (ResCat)    |  15,714 | 0.967  | 
+| Involution-based (ResCat-1)    |  15,714 | 0.967  | 
+| Involution-based (ResCat-2)    |  39,259 | 0.976  | 
 | Involution-based (with Maxpooling2D)    |  548 | 0.866  |
 
 ![Net](https://github.com/JacobChen1998/Involution_Example_MNIST/blob/main/Network.png)
