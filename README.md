@@ -1,4 +1,4 @@
-# Simple_Involution_Example_MNIST
+# Involution_Example_MNIST
 This is a simple example that uses involution layer instead of convolution layer in MNIST classification task.
 
 The involution network was perposed by [Involution: Inverting the Inherence of Convolution for Visual Recognition](https://arxiv.org/abs/2103.06255) (CVPR'21).
